@@ -12,5 +12,8 @@
   </head>
   <body>
   修改
+  <input type="text" placeholder="账户">
+  <input type="password" placeholder="密码">
+  <input type="submit" value="登录">
   </body>
 </html>
